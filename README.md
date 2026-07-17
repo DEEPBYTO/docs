@@ -10,12 +10,15 @@ DEEPBYTO is an AI & Software Innovations Lab focused on building intelligent sof
 
 ## Documentation
 
-- Company Overview
-- Vision & Mission
-- Technologies
-- Products
-- Projects
-- Roadmap
+Explore DEEPBYTO documentation:
+
+1. [What is DEEPBYTO](docs/01-what-is-deepbyto.md)
+2. [Company Overview](docs/02-company-overview.md)
+3. [Vision & Mission](docs/03-vision-and-mission.md)
+4. [Technology](docs/04-technology.md)
+5. [Products & Projects](docs/05-products-and-projects.md)
+6. [Roadmap](docs/06-roadmap.md)
+7. [FAQ](docs/07-faq.md)
 
 ## Purpose
 
